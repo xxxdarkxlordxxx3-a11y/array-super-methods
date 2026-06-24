@@ -61,5 +61,3 @@ const randomName = names.randomIndexNum();
 console.log(randomName); 
 // Output: (A random element from the names array)
 ```
-📝 License
-MIT License. Feel free to use, modify, and distribute!
