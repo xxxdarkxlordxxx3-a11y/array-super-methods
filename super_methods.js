@@ -1,3 +1,11 @@
+/**
+ * @file super_methods.js
+ * @description A lightweight JavaScript utility that supercharges standard Arrays.
+ * @author MAHMOUZ
+ * @version 1.0.0
+ * @license MIT
+ * @copyright 2026 MAHMOUZ. All rights reserved.
+ */
 Array.prototype.numExport = function () {
     return this.filter((e, i, a) => typeof e === "number");
 }
