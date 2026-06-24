@@ -21,3 +21,6 @@ Array.prototype.randomIndexNum = function () {
     else
         return this[Math.floor(Math.random() * this.length)];
 }
+
+
+// created by MAHMOUZ
