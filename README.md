@@ -11,7 +11,7 @@ A lightweight, zero-dependency JavaScript utility package that supercharges nati
 2. Import it at the very top of your main entry file (e.g., `index.js` or `app.js`):
 
 ```javascript
-import './super_mothods.js'; // This initializes the prototype methods globally
+import './super_methods.js'; // This initializes the prototype methods globally
 
 ```
 
